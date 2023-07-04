@@ -1,80 +1,62 @@
 export default {
     EN: {
         PLACEHOLDER: 'Select an item',
-        SEARCH_PLACEHOLDER: 'Type something...',
-        SELECTED_ITEMS_COUNT_TEXT: {
-            1: 'An item has been selected',
-            n: '{count} items have been selected'
-        },
-        NOTHING_TO_SHOW: 'There\'s nothing to show!'
+        SEARCH_PLACEHOLDER: 'Select Options',
+        SELECTED_ITEMS_COUNT_TEXT: 'Select Options',
+        NOTHING_TO_SHOW: 'Select Options'
     },
     AR: {
         PLACEHOLDER: 'حدد عنصر',
-        SEARCH_PLACEHOLDER: 'يبحث...',
-        SELECTED_ITEMS_COUNT_TEXT: 'تم اختیار {count} عنصر',
-        NOTHING_TO_SHOW: 'لا يوجد شيء لعرضه!'
+        SEARCH_PLACEHOLDER:  'حدد عنصر'
+        SELECTED_ITEMS_COUNT_TEXT:  'حدد عنصر'
+        NOTHING_TO_SHOW:  'حدد عنصر'
     },
     FA: {
         PLACEHOLDER: 'آیتمی انتخاب کنید',
-        SEARCH_PLACEHOLDER: 'چیزی تایپ کنید...',
-        SELECTED_ITEMS_COUNT_TEXT: {
-            1: 'یک آیتم انتخاب شده است',
-            n: '{count} آیتم انتخاب شده است'
-        },
-        NOTHING_TO_SHOW: 'چیزی برای نمایش وجود ندارد!'
+        SEARCH_PLACEHOLDER: 'آیتمی انتخاب کنید',
+        SELECTED_ITEMS_COUNT_TEXT: 'آیتمی انتخاب کنید',
+        NOTHING_TO_SHOW:'آیتمی انتخاب کنید',
     },
     TR: {
         PLACEHOLDER: 'Bir seçenek seçin',
-        SEARCH_PLACEHOLDER: 'Arama...',
-        SELECTED_ITEMS_COUNT_TEXT: {
-            1: 'Bir öğe seçildi',
-            n: '{count} öğe seçildi'
-        },
-        NOTHING_TO_SHOW: 'Gösterecek hiçbir şey yok!'
+        SEARCH_PLACEHOLDER: 'Bir seçenek seçin',
+        SELECTED_ITEMS_COUNT_TEXT: 'Bir seçenek seçin',
+        NOTHING_TO_SHOW: 'Bir seçenek seçin'
     },
     RU: {
         PLACEHOLDER: 'Выберите элемент',
-        SEARCH_PLACEHOLDER: 'Введите текст...',
-        SELECTED_ITEMS_COUNT_TEXT: 'Выбрано элементов: {count}',
-        NOTHING_TO_SHOW: 'Элементы не найдены!'
+        SEARCH_PLACEHOLDER: 'Выберите элемент',
+        SELECTED_ITEMS_COUNT_TEXT: 'Выберите элемент',
+        NOTHING_TO_SHOW: 'Выберите элемент'
     },
     ES: {
         PLACEHOLDER: 'Selecciona un elemento',
-        SEARCH_PLACEHOLDER: 'Escribe algo...',
-        SELECTED_ITEMS_COUNT_TEXT: 'Se han seleccionado {count} elemento(s)',
-        NOTHING_TO_SHOW: '¡No hay nada que mostrar!'
+        SEARCH_PLACEHOLDER: 'Selecciona un elemento',
+        SELECTED_ITEMS_COUNT_TEXT: 'Selecciona un elemento',
+        NOTHING_TO_SHOW: 'Selecciona un elemento'
     },
     ID: {
         PLACEHOLDER: 'Pilih item',
-        SEARCH_PLACEHOLDER: 'Ketik sesuatu...',
-        SELECTED_ITEMS_COUNT_TEXT: '{count} item telah dipilih',
-        NOTHING_TO_SHOW: 'Tidak ada yang bisa ditampilkan!'
+        SEARCH_PLACEHOLDER: 'Pilih item',
+        SELECTED_ITEMS_COUNT_TEXT: 'Pilih item',
+        NOTHING_TO_SHOW: 'Pilih item'
     },
     IT: {
         PLACEHOLDER: 'Seleziona un elemento',
-        SEARCH_PLACEHOLDER: 'Digita qualcosa...',
-        SELECTED_ITEMS_COUNT_TEXT: {
-            1: 'Un elemento è stato selezionato',
-            n: '{count} elementi sono stati selezionati'
-        },
-        NOTHING_TO_SHOW: 'Non c\'è nulla da mostrare!'
+        SEARCH_PLACEHOLDER: 'Seleziona un elemento',
+        SELECTED_ITEMS_COUNT_TEXT: 'Seleziona un elemento'
+        NOTHING_TO_SHOW: 'Seleziona un elemento'
     },
     PT: {
         PLACEHOLDER: 'Selecione um item',
-        SEARCH_PLACEHOLDER: 'Faça sua busca...',
-        SELECTED_ITEMS_COUNT_TEXT: {
-            1: 'Um item selecionado',
-            n: '{count} alguns itens selecionados'
-        },
-        NOTHING_TO_SHOW: 'Nada a ser mostrado!'
+        SEARCH_PLACEHOLDER: 'Selecione um item',
+        SELECTED_ITEMS_COUNT_TEXT: 'Selecione um item'
+        NOTHING_TO_SHOW: 'Selecione um item'
     },
     FR: {
         PLACEHOLDER: 'Sélectionnez un élément',
-        SEARCH_PLACEHOLDER: 'Tapez quelque chose...',
-        SELECTED_ITEMS_COUNT_TEXT: {
-            1: 'Un élément a été sélectionné',
-            n: '{count} éléments ont été sélectionnés'
-        },
-        NOTHING_TO_SHOW: 'Il n\'y a rien à montrer!'
+        SEARCH_PLACEHOLDER: 'Sélectionnez un élément',
+        SELECTED_ITEMS_COUNT_TEXT: 'Sélectionnez un élément'
+        NOTHING_TO_SHOW: 'Sélectionnez un élément'
     },
 }
